@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/YOUTUBE-SENTIMENT-INSIGHTS/mlruns/713177555780160924/b99d9c6d3fe848778949b23a8806c4d2/artifacts
+end_time: 1751449086731
+entry_point_name: ''
+experiment_id: '713177555780160924'
+lifecycle_stage: active
+run_id: b99d9c6d3fe848778949b23a8806c4d2
+run_name: skittish-chimp-16
+run_uuid: b99d9c6d3fe848778949b23a8806c4d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751449057026
+status: 3
+tags: []
+user_id: Dell

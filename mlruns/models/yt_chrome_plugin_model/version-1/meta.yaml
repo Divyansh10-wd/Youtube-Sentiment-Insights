@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1751449985276
+current_stage: Staging
+description: null
+last_updated_timestamp: 1751449985344
+name: yt_chrome_plugin_model
+run_id: b99d9c6d3fe848778949b23a8806c4d2
+run_link: null
+source: file:///E:/YOUTUBE-SENTIMENT-INSIGHTS/mlruns/713177555780160924/b99d9c6d3fe848778949b23a8806c4d2/artifacts/lgbm_model
+status: READY
+status_message: null
+storage_location: file:///E:/YOUTUBE-SENTIMENT-INSIGHTS/mlruns/713177555780160924/b99d9c6d3fe848778949b23a8806c4d2/artifacts/lgbm_model
+user_id: null
+version: 1
